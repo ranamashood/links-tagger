@@ -1,5 +1,7 @@
+import Home from "./pages/Home";
+
 function App() {
-  return <>Links Tagger</>;
+  return <Home />;
 }
 
 export default App;
